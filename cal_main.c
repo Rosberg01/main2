@@ -11,9 +11,14 @@ int main(int argc, char *argv[])
     printf("%d - %d = %d\n", a, b, sub(a, b));
     printf("%d * %d = %d\n", a, b, mul(a, b));
     printf("%d / %d = %d\n", a, b, dur(a, b));
-    
+  
+
+
     printf("%d / %d = %d\n", a, b, dur(a, b));
     
+
+
+
     return 0;
 }
 
